@@ -3,7 +3,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
 # 1. Set up the title of your web app
-st.title("Nexus Chat Bot")
+st.title("Hardik Nexus Super AI")
 
 # 2. Cache the model loading so your app stays fast
 @st.cache_resource
